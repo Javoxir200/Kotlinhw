@@ -1,0 +1,13 @@
+[{
+    "name": "nikita",
+    "phones": [123312123, 8976567],
+    "emails": [slsfjd@mail.ru]
+}, {
+    "name": "anna",
+    "phones": [2352535],
+    "emails": [anna@mail.ru]
+}, {
+    "name": "dima",
+    "phones": [33442333777],
+    "emails": [dima@mail.ru, dima2@mail.ru]
+}]
